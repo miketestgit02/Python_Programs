@@ -1,3 +1,6 @@
 [submodule "Code_Fights"]
 	path = Code_Fights
 	url = https://github.com/miketestgit02/Code_Fights
+[submodule "GUI_Programs"]
+	path = GUI_Programs
+	url = https://github.com/miketestgit02/GUI_Programs
