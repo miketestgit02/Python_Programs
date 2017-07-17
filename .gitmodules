@@ -7,3 +7,6 @@
 [submodule "Kivy"]
 	path = Kivy
 	url = https://github.com/miketestgit02/Kivy
+[submodule "Misc"]
+	path = Misc
+	url = https://github.com/miketestgit02/Misc
