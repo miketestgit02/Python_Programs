@@ -10,3 +10,6 @@
 [submodule "Misc"]
 	path = Misc
 	url = https://github.com/miketestgit02/Misc
+[submodule "PyMoney"]
+	path = PyMoney
+	url = https://github.com/miketestgit02/PyMoney
