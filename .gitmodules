@@ -4,3 +4,6 @@
 [submodule "GUI_Programs"]
 	path = GUI_Programs
 	url = https://github.com/miketestgit02/GUI_Programs
+[submodule "Kivy"]
+	path = Kivy
+	url = https://github.com/miketestgit02/Kivy
