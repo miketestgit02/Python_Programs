@@ -16,3 +16,6 @@
 [submodule "Web_Scraping"]
 	path = Web_Scraping
 	url = https://github.com/miketestgit02/Web_Scraping
+[submodule "workExperienceCalc"]
+	path = workExperienceCalc
+	url = https://github.com/miketestgit02/workExperienceCalc
