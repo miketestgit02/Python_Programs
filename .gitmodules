@@ -13,3 +13,6 @@
 [submodule "PyMoney"]
 	path = PyMoney
 	url = https://github.com/miketestgit02/PyMoney
+[submodule "Web_Scraping"]
+	path = Web_Scraping
+	url = https://github.com/miketestgit02/Web_Scraping
